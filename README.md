@@ -23,4 +23,4 @@
 ## Technologies Used
 **Data Analysis & Querying:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-**Data Visualization:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+**Data Visualization:** ![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white)
