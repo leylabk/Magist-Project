@@ -5,7 +5,7 @@
 - Using exploratory data analysis and key business performance metrics, we identified significant gaps in product focus, price positioning, business scale, and delivery performance, suggesting that Magist is not the right strategic fit for Eniac.
 
 ## Dataset & Sources
-**Source:** Dataset provided by WBS Coding School
+**Source:** Dataset provided by [WBS Coding School](https://drive.usercontent.google.com/download?id=1Y6fWPUQrMofINrIV1X2pIQNcTv-1H2CF&export=download&authuser=0)
 
 **Format:** Relational database consisting of 9 interconnected table, with a database schema defining their relationships.
 
