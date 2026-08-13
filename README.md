@@ -7,7 +7,7 @@
 ## Dataset & Sources
 **Source:** Dataset provided by [WBS Coding School](https://drive.usercontent.google.com/download?id=1Y6fWPUQrMofINrIV1X2pIQNcTv-1H2CF&export=download&authuser=0)
 
-**Format:** Relational database consisting of 9 interconnected table, with a database schema defining their relationships.
+**Format:** Relational database consisting of 9 interconnected table, with a database [schema](magist_schema.pdf) defining their relationships.
 
 **Key Tables:** Orders, Customers, Products, Sellers, Order Payments, Order Reviews, Order Items, Geo-location and Product Category Translation.
 
