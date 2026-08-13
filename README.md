@@ -21,6 +21,6 @@
 - **Strategic mismatch:** Magist’s mid-market infrastructure does not appear well aligned with Eniac’s premium, high-touch customer experience.
 
 ## Technologies Used
-**Data Analysis & Querying:** SQL
+**Data Analysis & Querying:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-**Data Visualization:** Tableau
+**Data Visualization:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
